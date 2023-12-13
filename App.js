@@ -3,7 +3,7 @@ const parent = React.createElement("div", {id : "parent"},[
         "div",
         {id : "div1"},
         [React.createElement(
-            "h1",
+            "h1", 
             {id : "h1"},
             "I am an H1 tag"
         ), React.createElement(

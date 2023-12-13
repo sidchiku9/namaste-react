@@ -1,0 +1,23 @@
+{
+  "name": "newreact",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidchiku9/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "learn"
+  ],
+  "author": "Siddharth Agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidchiku9/namaste-react/issues"
+  },
+  "homepage": "https://github.com/sidchiku9/namaste-react#readme"
+}
